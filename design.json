@@ -1,0 +1,60 @@
+{
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          {
+            "contents": [
+              {
+                "text": {
+                  "content": "Welcome to our latest newsletter! Delve into groundbreaking digital transformation strategies tailored specifically for the Technology sector.",
+                  "style": {}
+                }
+              }
+            ],
+            "style": {}
+          }
+        ],
+        "style": {
+          "padding_top": "10",
+          "padding_bottom": "10",
+          "padding_left": "20",
+          "padding_right": "20"
+        }
+      },
+      {
+        "cells": [
+          {
+            "style": {},
+            "contents": [
+              {
+                "button": {
+                  "url": "https://www.example.com",
+                  "content": "Learn More",
+                  "style": {
+                    "background-color": "#004b64",
+                    "text-align": "center",
+                    "border-radius": "3px",
+                    "display": "inline-block",
+                    "font-family": "'Raleway', sans-serif",
+                    "color": "#ffffff",
+                    "text-transform": "uppercase",
+                    "padding": "10px 25px",
+                    "margin-top": "20px",
+                    "border": "none"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "style": {
+          "padding_top": "20",
+          "padding_bottom": "20",
+          "padding_left": "20",
+          "padding_right": "20"
+        }
+      }
+    ]
+  }
+}
